@@ -15,6 +15,7 @@ RUN         apt-get upgrade -y
 RUN         apt-get install -y --no-install-recommends \
                 expect \
                 git \
+                wget \
                 libc6-i386 \
                 lib32stdc++6 \
                 lib32gcc1 \

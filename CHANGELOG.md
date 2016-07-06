@@ -1,5 +1,12 @@
 # Changelog
 
+## 1.0.1
+
+_2016-07-06_
+
+ * Upgraded to taig/scala:1.0.1
+ * Removed preset `WORKDIR`
+
 ## 1.0.0
 
 _2016-07-04_

@@ -44,5 +44,3 @@ RUN         [ "./accept-licenses.sh", "android update sdk --no-ui --all --filter
 RUN         git clone https://github.com/taig/hello-scala.git
 RUN         cd ./hello-scala && sbt test
 RUN         rm -r ./hello-scala
-
-WORKDIR     /src/

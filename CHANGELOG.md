@@ -1,5 +1,11 @@
 # Changelog
 
+## 1.0.3
+
+_2016_07_11_
+
+ * Downgraded to build tools 23.0.3 for Firebase Test Lab compatibility
+
 ## 1.0.2
 
 _2016-07-08_

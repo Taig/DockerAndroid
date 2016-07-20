@@ -3,7 +3,7 @@ FROM        taig/scala:1.0.3
 MAINTAINER  Niklas Klein "mail@taig.io"
 
 ENV         ANDROID_SDK 24.4.1
-ENV         ANDROID_BUILD_TOOLS 24.0.0
+ENV         ANDROID_BUILD_TOOLS 24.0.1
 ENV         ANDROID_PLATFORM 24
 ENV         HELLO_SCALA b98f91bb7168384e8b6160ec8fcc0e567736f4f7
 

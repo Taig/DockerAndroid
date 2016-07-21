@@ -1,5 +1,10 @@
 # Changelog
 
+## 1.0.9
+
+ * Upgrade to taig/scala:1.0.4
+ * Upgrade to hello-scala revision 7c8f0cd1901cf8bb7b0820957758d8b4c6da8001
+
 ## 1.0.8
 
 _2016-07-20_

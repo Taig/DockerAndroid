@@ -1,5 +1,11 @@
 # Changelog
 
+## 1.0.11
+
+_2016-08-04_
+
+ * Upgrade to latest support repositories
+
 ## 1.0.10
 
 _2016-07-26_

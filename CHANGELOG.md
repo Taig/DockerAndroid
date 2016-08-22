@@ -1,5 +1,11 @@
 # Changelog
 
+## 1.0.13
+
+_2016-08-22_
+
+ * Upgrade to hello-scala revision 5e411008e2bd15ba76292462d5f46a8c05930be0
+
 ## 1.0.12
 
 _2016-08-10_

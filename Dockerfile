@@ -1,4 +1,4 @@
-FROM        taig/scala:1.0.5a
+FROM        taig/scala:1.0.5
 
 MAINTAINER  Niklas Klein "mail@taig.io"
 
@@ -11,8 +11,6 @@ WORKDIR     /root/
 
 RUN         dpkg --add-architecture i386
 
-RUN         apt-get update
-RUN         apt-get upgrade -y
 RUN         apt-get install -y --no-install-recommends \
                 expect \
                 unzip \

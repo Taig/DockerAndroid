@@ -1,5 +1,12 @@
 # Changelog
 
+## 1.0.18
+
+_2016-10-18_
+
+ * Upgrade to hello-scala revision 81f9ffb3f7787a30a6119c5fa33bca4df37388b6
+ * Upgrade to Android build tools 24.0.3
+
 ## 1.0.17
 
 _2016-09-29_

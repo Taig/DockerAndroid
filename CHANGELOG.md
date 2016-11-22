@@ -1,5 +1,11 @@
 # Changelog
 
+## 1.0.21
+
+_2016-11-22_
+
+ * Rebuild image to fetch latest Android SDK dependencies
+
 ## 1.0.20
 
 _2016-11-17_

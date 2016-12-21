@@ -1,5 +1,12 @@
 # Changelog
 
+## 1.0.23
+
+_2016-12-21_
+
+ * Upgrade to taig/scala:1.0.9
+ * Set WORKDIR to /root/
+
 ## 1.0.22
 
 _2016-12-21_
@@ -19,7 +26,6 @@ _2016-11-22_
 
 _2016-11-17_
 
- * Upgrade to taig/scala:1.0.8
  * Upgrade to hello-scala revision 24c5875ee5c5705e751a11685ffb0fe1dc7035dc
 
 ## 1.0.19

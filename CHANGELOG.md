@@ -1,5 +1,14 @@
 # Changelog
 
+## 1.0.22
+
+_2016-12-21_
+
+ * Upgrade to Android SDK 25.2.3
+ * Upgrade to Android build tools 25.0.2
+ * Upgrade to Android platform target 25
+ * Upgrade to hello-scala revision 868e35ad47ece90fddc6b1fe8b9629eb56aca0c5
+
 ## 1.0.21
 
 _2016-11-22_

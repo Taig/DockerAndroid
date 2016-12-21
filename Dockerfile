@@ -29,6 +29,7 @@ RUN         echo y | android update sdk --no-ui --all --filter android-$ANDROID_
 RUN         echo y | android update sdk --no-ui --all --filter "extra-android-m2repository,extra-android-support,extra-google-google_play_services,extra-google-m2repository"
 
 # Install and test a sample project to cache the major dependencies
+WORKDIR     /root/
 RUN         wget https://github.com/taig/hello-scala/archive/$HELLO_SCALA.zip
 RUN         unzip ./$HELLO_SCALA.zip
 RUN         cd ./hello-scala-$HELLO_SCALA && sbt test

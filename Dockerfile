@@ -5,7 +5,7 @@ MAINTAINER  Niklas Klein "mail@taig.io"
 ENV         ANDROID_SDK 25.2.3
 ENV         ANDROID_BUILD_TOOLS 25.0.2
 ENV         ANDROID_PLATFORM 25
-ENV         HELLO_SCALA 868e35ad47ece90fddc6b1fe8b9629eb56aca0c5
+ENV         HELLO_SCALA cdb89331fa8bc80013136fe7731adbf5d73f1b63
 
 WORKDIR     /root/
 
